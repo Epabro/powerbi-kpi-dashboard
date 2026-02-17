@@ -31,10 +31,10 @@ Fokus: aus Rohdaten **klare Entscheidungsgrundlagen** machen – über saubere D
 ## Screenshots
 
 ### Executive Overview (KPI Cards, Monats-Datenschnitt, Trend & Target)
-![Executive Overview](screenshots/overview.png)
+![Executive Overview](Screenshots/ExecutiveOverview.png)
 
 ### Drilldown / Root Cause (Late Orders nach Customer, Late Rate nach Site)
-![Drilldown](screenshots/drilldown.png)
+![Drilldown](Screenshots/drilldown.png)
 
 
 
