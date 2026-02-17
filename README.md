@@ -28,11 +28,16 @@ Fokus: aus Rohdaten **klare Entscheidungsgrundlagen** machen – über saubere D
 - Optional: Excel/CSV als Demo-Datenquelle
 
 ## Screenshots
-Siehe Ordner: `./screenshots/`  
-Empfohlen: `overview.png`, `drilldown.png`, `model.png`
+## Screenshots
+
+### Executive Overview (KPI Cards, Monats-Datenschnitt, Trend & Target)
+![Executive Overview](screenshots/overview.png)
+
+### Drilldown / Root Cause (Late Orders nach Customer, Late Rate nach Site)
+![Drilldown](screenshots/drilldown.png)
+
+
 
 ## Hinweis zu Daten
 Dieses Projekt nutzt **Demo-/Beispieldaten**. Es werden **keine** vertraulichen oder personenbezogenen Unternehmensdaten veröffentlicht.
 
----
-Wenn du Fragen hast oder ein bestimmtes KPI-Set sehen möchtest, melde dich gern.
